@@ -2,17 +2,62 @@
   "tasks": [
     {
       "id": "1",
-      "title": "Learn TypeScript",
+      "title": "Buy groceries",
+      "description": "Get fruits, vegetables, and snacks for the week.",
       "completed": false
     },
     {
       "id": "2",
-      "title": "Build a To-Do App",
+      "title": "Finish homework",
+      "description": "Complete math and science assignments before the deadline.",
       "completed": true
     },
     {
-      "id": "4cb8",
-      "title": "hey",
+      "id": "3",
+      "title": "Attend team meeting",
+      "description": "Discuss project updates with the team at 3 PM.",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Clean the house",
+      "description": "Vacuum the living room, mop the kitchen, and tidy up the bathroom.",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Read a book",
+      "description": "Read at least 20 pages of the novel before bed.",
+      "completed": true
+    },
+    {
+      "id": "6",
+      "title": "Go for a run",
+      "description": "Run 5 kilometers around the park in the morning.",
+      "completed": false
+    },
+    {
+      "id": "7",
+      "title": "Plan weekend trip",
+      "description": "Find travel options and book accommodation for the weekend getaway.",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "title": "Organize emails",
+      "description": "Sort and delete unnecessary emails in the inbox.",
+      "completed": true
+    },
+    {
+      "id": "9",
+      "title": "Call mom",
+      "description": "Catch up with mom and check how she's doing.",
+      "completed": false
+    },
+    {
+      "id": "10",
+      "title": "Fix car issues",
+      "description": "Check the engine oil level and get the brakes checked.",
       "completed": false
     }
   ]
